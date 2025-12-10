@@ -22,7 +22,7 @@ delay(200);
 noTone(buzzerPin);
 delay(200);
 }
-// Pausa para evitar retrigger inmediato
+// Pausa para evitar retrigger inmediato j
 delay(2000);
 }
 }
